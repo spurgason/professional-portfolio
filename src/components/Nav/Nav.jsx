@@ -1,6 +1,6 @@
 import "./nav.scss";
 
-import {Mail} from "@material-ui/icons"
+import Mail from "@material-ui/icons/Mail"
 
 export default function Nav({menuOpen, setMenuOpen}) {
   return (
