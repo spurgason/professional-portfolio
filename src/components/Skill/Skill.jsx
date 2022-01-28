@@ -1,5 +1,5 @@
 import "./skill.scss"
 
 export default function Skill() {
-  return <div className="skill"></div>;
+  return <div className="skill" id="skill"></div>;
 }
