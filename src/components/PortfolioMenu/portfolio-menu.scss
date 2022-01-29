@@ -1,0 +1,15 @@
+@import "../../global.scss";
+
+.portfolioMenu {
+    font-size: 18px;
+    margin-right: 50px;
+    padding: 7px;
+    cursor: pointer;
+    
+    &.active{
+        background-color: $mainColor;
+        color: lightgreen;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+}
