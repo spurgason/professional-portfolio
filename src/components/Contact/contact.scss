@@ -4,6 +4,10 @@
     background-color: white;
     display: flex;
 
+    @include mobile {
+        flex-direction: column;
+    }
+
     .left {
         flex: .4;
         overflow: hidden;
