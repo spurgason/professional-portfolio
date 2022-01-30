@@ -1,7 +1,5 @@
 import "./skill.scss";
 
-import GitHub from "@material-ui/icons/GitHub";
-
 export default function Skill() {
   return (
     <div className="skill" id="skill">
