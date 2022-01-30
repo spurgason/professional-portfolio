@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/professional-portfolio/static/css/main.c9b711db.css",
-    "main.js": "/professional-portfolio/static/js/main.3956a319.js",
+    "main.css": "/professional-portfolio/static/css/main.19939acf.css",
+    "main.js": "/professional-portfolio/static/js/main.ff7d6cec.js",
     "static/media/e-commerce-shop.png": "/professional-portfolio/static/media/e-commerce-shop.62080c08bbd21579fed3.png",
     "static/media/pizza-hunt.png": "/professional-portfolio/static/media/pizza-hunt.b45da9d0702a36782da9.png",
     "static/media/travel-hub.png": "/professional-portfolio/static/media/travel-hub.a471db86d3ee2c403590.png",
@@ -9,6 +9,7 @@
     "static/media/furniture-sales.png": "/professional-portfolio/static/media/furniture-sales.e799730f022e64cc98f4.png",
     "static/media/family-media.png": "/professional-portfolio/static/media/family-media.b9d20969cad04ca2655a.png",
     "static/media/weather-api.png": "/professional-portfolio/static/media/weather-api.39f20fcde22372b1ef5e.png",
+    "static/media/Resume.pdf": "/professional-portfolio/static/media/Resume.2a70041d924089843f10.pdf",
     "static/media/work-day-scheduler.png": "/professional-portfolio/static/media/work-day-scheduler.f483b7b5ee0d90aa3e94.png",
     "static/media/tech-post.png": "/professional-portfolio/static/media/tech-post.9ad26d7bbc78d491c57d.png",
     "static/media/employee-tracker.PNG": "/professional-portfolio/static/media/employee-tracker.913c9edb8b307dd710e0.PNG",
@@ -18,11 +19,11 @@
     "static/media/team-profile-gen.png": "/professional-portfolio/static/media/team-profile-gen.f5b320419b4abbfe6b6e.png",
     "static/media/jest-another-rpg.PNG": "/professional-portfolio/static/media/jest-another-rpg.d770ac90570782399798.PNG",
     "index.html": "/professional-portfolio/index.html",
-    "main.c9b711db.css.map": "/professional-portfolio/static/css/main.c9b711db.css.map",
-    "main.3956a319.js.map": "/professional-portfolio/static/js/main.3956a319.js.map"
+    "main.19939acf.css.map": "/professional-portfolio/static/css/main.19939acf.css.map",
+    "main.ff7d6cec.js.map": "/professional-portfolio/static/js/main.ff7d6cec.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9b711db.css",
-    "static/js/main.3956a319.js"
+    "static/css/main.19939acf.css",
+    "static/js/main.ff7d6cec.js"
   ]
 }
