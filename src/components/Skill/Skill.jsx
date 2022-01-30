@@ -1,4 +1,5 @@
 import "./skill.scss";
+import resume from "../../assets/resume/Resume.pdf"
 
 export default function Skill() {
   return (
@@ -27,7 +28,7 @@ export default function Skill() {
             <p>Web Developer leveraging a background in customer service to deliver performative and innovative solutions to satisfy customer needs. Often appointed by leadership roles to train new employees and take the initiative to deliver on sales, as well as meeting project deadlines. Enjoys creative and collaborative group work to deliver exemplary products to exceed client expectations</p>
           </div>
           <div className="resume-download">
-            <button>Download Resume</button>
+            <button><a href={resume} download="ShanePurgasonResume">Download Resume</a></button>
           </div>
         </div>
         <div className="card">
