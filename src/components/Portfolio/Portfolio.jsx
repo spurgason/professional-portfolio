@@ -66,10 +66,10 @@ export default function Portfolio() {
       </ul>
       <div className="container">
         {projects.map((project) => (
-          <div className="item">
+          <a className="item" href={project.url} target="_blank" rel="noopener noreferrer">
             <img src={project.img} />
             <h3>{project.title}</h3>
-          </div>
+          </a>
         ))}
       </div>
     </div>
