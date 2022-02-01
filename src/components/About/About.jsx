@@ -25,7 +25,7 @@ export default function About() {
       </div>
       <div className="right">
         <div className="wrapper">
-          <h2>Hi, I'm</h2>
+          <h2>Hello, I'm</h2>
           <h1>Shane</h1>
           <h3>
             - <span ref={textRef}></span>
